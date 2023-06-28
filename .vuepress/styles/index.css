@@ -1,0 +1,11 @@
+.categories-container {
+  padding: 15px !important;
+}
+
+.theme-reco-default-content {
+  margin-bottom: 0 !important;
+}
+
+.banner-brand__wrapper {
+  height: calc(100vh - 0.1rem) !important;
+}

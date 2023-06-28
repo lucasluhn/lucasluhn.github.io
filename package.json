@@ -1,0 +1,17 @@
+{
+  "name": "my-pages-blog",
+  "version": "2.0.0",
+  "description": "A simple and beautiful vuepress blog theme .",
+  "repository": "",
+  "author": "Lucas Lu <kobeluhaonan@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev --clean-cache",
+    "start": "vuepress dev --clean-cache",
+    "build": "vuepress build --clean-cache"
+  },
+  "dependencies": {
+    "vuepress": "2.0.0-beta.62",
+    "vuepress-theme-reco": "2.0.0-beta.63"
+  }
+}
